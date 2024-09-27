@@ -2,7 +2,7 @@
 
 If you would like to contact me for work, contact me @notpreston on discord.
 
-Languages I Know: HTML, CSS, JavaScript,
+Languages I Know: HTML, CSS, JavaScript, Node.JS, etc.
 
 Languages I'm still learning: Java, Python, C++, C#
 
